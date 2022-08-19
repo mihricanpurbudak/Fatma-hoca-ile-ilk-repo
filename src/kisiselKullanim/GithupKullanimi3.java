@@ -7,6 +7,6 @@ public class GithupKullanimi3 {
 System.out.println("Githuptan lokale gonderdik");
         System.out.println("Master da 1.deneme");
 System.out.println("Master da 2.deneme");
-
+        System.out.println("Master 3.Deneme");
     }
 }
